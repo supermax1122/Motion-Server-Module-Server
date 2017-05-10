@@ -1,0 +1,17 @@
+﻿  XBeeData.cpp
+  XBeePacket.cpp
+  XBeeDevice.cpp
+d:\motion server\motionserver-master\motionserver-master\src\xbeedevice.cpp(169): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+  SerialPort.cpp
+  MotionServerMain.cpp
+d:\motion server\motionserver-master\motionserver-master\src\motionservermain.cpp(987): fatal error C1004: 发现意外的文件尾
+  MoCapSimulator.cpp
+  MoCapData.cpp
+  MoCapCortex.cpp
+  Logging.cpp
+  InteractionSystem.cpp
+d:\motion server\motionserver-master\motionserver-master\src\interactionsystem.cpp(200): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\motion server\motionserver-master\motionserver-master\src\interactionsystem.cpp(219): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\motion server\motionserver-master\motionserver-master\src\interactionsystem.cpp(229): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  MoCapFile.cpp
+  正在生成代码...
